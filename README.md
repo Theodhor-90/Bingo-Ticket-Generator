@@ -19,4 +19,8 @@ The main focus of this project is to create a function that returns an object wi
 * Using objects, arrays, functions and loops
 * Practicing on algorithms
 
+## Links
+
+[Explore the project](https://www.theodhorshyti.com)
+
 
